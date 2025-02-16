@@ -1,1 +1,2 @@
 - Modify select drives' firmware to allow a generic consumer HDD to be used in XBOX360 - [HDDHACKR](https://www.realmodscene.com/index.php?/topic/1208-hddhackr-v140-build-20130303/)
+- SMART data can be 'reset' by special tools [One Click to Clear Hard Drive Smart](https://www.dolphindatalab.com/one-click-to-clear-hard-drive-smart/)
